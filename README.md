@@ -21,6 +21,8 @@ Try to record the usage of git
 
 2. `git push origin :refs/tags/<tagname>`
 
+3. `git push origin --delete $(git tag -l) 删除所有`
+
 ### Q3: 如何拉取远程分支代码?
 
 1. `git pull origin branch:branch`
