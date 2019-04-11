@@ -49,4 +49,8 @@ Try to record the usage of git
 
 4. `查询远程 git remote -a`
 
+### Q6: 如何在不提交当前修改的情况下切换分支?
+
+1. `git stash`
+
 ### Waiting for updating.......
