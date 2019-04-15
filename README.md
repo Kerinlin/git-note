@@ -53,4 +53,9 @@ Try to record the usage of git
 
 1. `git stash`
 
+### Q7: 如何在稳定版本中添加一个开发版本中的某个功能提交?
+
+1. ` git log  查看自己的提交记录 `
+2. ` git cherry-pick <commit-id> 挑选特性提交`
+
 ### Waiting for updating.......
