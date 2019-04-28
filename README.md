@@ -25,7 +25,8 @@ Try to record the usage of git
 
 ### Q3: 如何拉取远程分支代码?
 
-1. `git pull origin branch:branch`
+1. `git fetch origin branch-name`
+2. `git chenckout -b 本地分支名 origin/远程分支名`
 
 ### Q4: 如何合并分支代码(在dev分支上开发,master分支合并dev上线)?
 
