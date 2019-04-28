@@ -27,6 +27,7 @@ Try to record the usage of git
 
 1. `git fetch origin branch-name`
 2. `git chenckout -b 本地分支名 origin/远程分支名`
+3. `使用 git pull origin 分支名 更新代码 `
 
 ### Q4: 如何合并分支代码(在dev分支上开发,master分支合并dev上线)?
 
