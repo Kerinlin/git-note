@@ -64,6 +64,7 @@ Try to record the usage of git
 [https://juejin.im/post/5925a2d9a22b9d0058b0fd9b](https://juejin.im/post/5925a2d9a22b9d0058b0fd9b)
 
 ### Q9: 合并开发中的多个提交记录为一条
+
 1.`git rebase -i HEAD~2  合并最近两条提交记录`
 2.`将pick改为s`
 3.`编辑提交信息,:wq保存后开始合并`
