@@ -66,8 +66,12 @@ Try to record the usage of git
 ### Q9: 合并开发中的多个提交记录为一条
 
 1.`git rebase -i HEAD~2  合并最近两条提交记录`
+
 2.`将pick改为s`
+
 3.`编辑提交信息,:wq保存后开始合并`
+
 4.`等待合并完成`
+
 
 ### Waiting for updating.......
